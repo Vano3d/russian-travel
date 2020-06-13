@@ -1,0 +1,10 @@
+@import url(./__item/photo__item.css);
+
+
+.photo {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 16px;
+    padding: 92px 48px 0;
+    justify-items: center;
+}

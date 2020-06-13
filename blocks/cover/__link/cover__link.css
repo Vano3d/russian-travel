@@ -1,0 +1,10 @@
+.cover__link {
+    display: block;
+    max-width: 1184px;
+ 
+    margin: 0 auto;
+}
+
+.cover__link:hover .cover__overlay {
+    opacity: 0.8;
+}

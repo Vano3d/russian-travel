@@ -1,0 +1,11 @@
+.travel__subtitle {
+    display: block;
+    margin: 0 auto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    margin-top: 32px;
+    width: 640px;
+}

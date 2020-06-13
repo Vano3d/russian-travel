@@ -21,3 +21,9 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+
+Репо
+https://github.com/Helena1981/russian-travel
+
+Шрифт
+https://rsms.me/inter/

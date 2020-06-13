@@ -1,0 +1,13 @@
+@import url(./__lang/);
+@import url(./__logo/);
+@import url(./__ru/header__ru.css);
+
+
+
+.header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 28px 48px 0;   
+  
+}

@@ -1,0 +1,17 @@
+@import url(./__card/travel__card.css);
+@import url(./__label/travel__label.css);
+@import url(./__map/travel__map.css);
+@import url(./__subtitle/travel__subtitle.css);
+@import url(./__title/travel__title.css);
+
+
+
+
+
+.travel {
+    max-width: 984px;
+    margin: 0 auto;
+    margin-top: 56px;
+    
+    
+}

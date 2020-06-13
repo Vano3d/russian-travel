@@ -1,0 +1,11 @@
+.cover__place {
+    text-align: center;
+    max-width: 560px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%; 
+    left: 50%;
+    color: #fff;
+    
+     
+}

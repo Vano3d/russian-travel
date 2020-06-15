@@ -2,7 +2,15 @@
    
     max-width: 1184px;
     margin: 0 auto;
-    
     position: relative;
-    margin: 0 0 134px;
+    margin: 0 0 92px;
 }
+
+@media screen and (max-width: 600px) {
+    
+    .cover__image {
+        margin: 0 0 64px;
+  
+    }
+       
+    }

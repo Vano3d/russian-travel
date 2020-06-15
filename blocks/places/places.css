@@ -13,4 +13,50 @@
     grid-template-columns: minmax(min-content, 460px) minmax(min-content, 484px);
     grid-gap: 48px 40px;
     padding: 60px 148px 92px;
+    box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+    
+    .places {
+        grid-template-columns: minmax(min-content, 440px) minmax(min-content, 456px);    
+        padding: 60px 48px 92px;
+        grid-gap: 48px 32px;
+    }
+       
+    }
+
+    @media screen and (max-width: 768px) {
+    
+        .places {
+            grid-template-columns: minmax(min-content, 340px) minmax(min-content, 352px); 
+            padding: 60px 24px 88px;
+            grid-gap: 48px 28px;
+            margin: 0 auto;
+        }
+           
+        }
+
+        @media screen and (max-width: 650px) {
+    
+            .places {
+                grid-template-columns: minmax(min-content, 100%); 
+                padding: 60px 18px 88px;
+                grid-gap: 48px 28px;
+                margin: 0 auto;
+            }
+               
+            }
+
+ 
+        @media screen and (max-width: 320px) {
+    
+            .places {
+                grid-template-columns: minmax(min-content, 320px);
+                grid-gap: 32px 0;
+                padding: 60px 0 88px;
+            }
+               
+            }       
+
+        

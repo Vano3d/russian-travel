@@ -1,3 +1,12 @@
 .places__website {
     align-self: end;
 }
+
+@media screen and (max-width: 320px) {
+    
+    .places__website {
+       
+       display: none;
+    }
+       
+    }

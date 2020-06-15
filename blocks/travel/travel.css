@@ -12,6 +12,15 @@
     max-width: 984px;
     margin: 0 auto;
     margin-top: 56px;
-    
-    
+
 }
+
+@media screen and (max-width: 1024px) {
+    
+    .travel {
+        margin-top: 48px;
+    }
+       
+    }
+
+  

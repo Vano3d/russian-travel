@@ -10,3 +10,33 @@
     margin: 92px 0 0 148px;
     
 }
+
+@media screen and (max-width: 1024px) {
+    
+    .intro {
+        margin: 92px 0 0 48px;
+    }
+       
+    }
+
+@media screen and (max-width: 768px) {
+    
+    .intro {
+       
+        margin: 0 auto;
+        margin-top: 88px;
+        padding: 0 24px;
+        box-sizing: border-box;
+    }
+       
+    }
+
+    @media screen and (max-width: 320px) {
+    
+        .intro {
+            max-width: 288px;
+            
+            margin-top: 64px;
+        }
+           
+        }

@@ -4,8 +4,19 @@
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
-    line-height: 36px;
+    line-height: 1.2;
     text-align: center;
     margin-top: 32px;
-    width: 640px;
+    max-width: 640px;
 }
+
+
+@media screen and (max-width: 320px) {
+    
+    .travel__subtitle {
+        font-size: 16px;
+        max-width: 288px;
+    }
+
+     
+    }

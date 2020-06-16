@@ -1,0 +1,13 @@
+.header__link {
+    color: #fff;
+    margin-right: 18px;
+    text-decoration: none;
+}
+
+.header__link:hover {
+    text-decoration: underline;
+}
+
+.header__link:last-child {
+    margin-right: 0;
+}

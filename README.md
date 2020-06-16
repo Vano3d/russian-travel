@@ -5,3 +5,5 @@
 В вёрстке использовались flex, grid, структура по БЭМ.
 Были трудности с вёрсткой cover и медиа-запросами.
 
+Ссылка на проект https://helena1981.github.io/russian-travel/index.html
+

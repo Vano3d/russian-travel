@@ -4,14 +4,11 @@
     margin-right: 18px;
    
 }
-/* !Не работает!
 
-.footer__link:last-of-type {
-    margin-right: 0;
-} */
 
 
 .footer__link:hover {
     opacity: .8;
+    transition: .5s ease;
 }
 

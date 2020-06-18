@@ -1,5 +1,5 @@
 @import url(./__list/intro__list.css);
-@import url(./__list_item/intro__list_item.css);
+@import url(./__item/intro__item.css);
 @import url(./__span/intro__span.css);
 @import url(./__text/intro__text.css);
 @import url(./__title/intro__title.css);
@@ -22,9 +22,9 @@
 @media screen and (max-width: 768px) {
     
     .intro {
-       
+        max-width: 100%;
         margin: 0 auto;
-        margin-top: 88px;
+        margin: 88px 0 0 0; 
         padding: 0 24px;
         box-sizing: border-box;
     }
@@ -34,9 +34,10 @@
     @media screen and (max-width: 320px) {
     
         .intro {
-            max-width: 288px;
-            
+            margin: 0 auto;
             margin-top: 64px;
+            max-width: 100%;
+            padding: 0 16px;
         }
            
         }

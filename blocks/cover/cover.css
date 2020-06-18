@@ -1,10 +1,30 @@
-@import url(./__baikal/cover__baikal.css);
-@import url(./__image/cover__image.css);
-@import url(./__link/cover__link.css);
-@import url(./__overlay/cover__overlay.css);
 @import url(./__place/cover__place.css);
 @import url(./__subtitle/cover__subtitle.css);
 @import url(./__title/cover__title.css);
+
 .cover {
-    width: 100%;
+   margin: 0 auto;
+   max-width: 1184px;
+   margin-bottom: 92px;
+   position: relative;
+  
 }
+ 
+@media screen and (max-width: 768px) {
+    
+   .cover {
+      margin-bottom: 88px;
+       
+   }
+      
+   }
+   
+   @media screen and (max-width: 320px) {
+    
+      .cover {
+         margin-bottom: 64px;
+          
+      }
+         
+      }   
+   

@@ -23,10 +23,10 @@
         .footer {
             display: grid;
             grid-template-columns: minmax(min-content) minmax(min-content);
-            
-          
-      
-        }
+     
+    }
+    }
+
 
     @media screen and (max-width: 320px) {
     

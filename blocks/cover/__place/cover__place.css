@@ -13,9 +13,7 @@
     background-size: cover;
     background-position: center center;
     z-index: 1;
-    
-   
-    
+  
 }
 
 .cover__place:after {
@@ -27,12 +25,11 @@
     height: 740px;
     background-color: rgba(42, 44, 47, 0.3);
     z-index: 3;
-   
+    transition: 0.3s all ease;
 }
 
 .cover__place:hover:after {
     background-color: rgba(42, 44, 47, 0.8);
-    transition: 1s ease;
 }
 
 
